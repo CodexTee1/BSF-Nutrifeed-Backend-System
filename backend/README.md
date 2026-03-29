@@ -96,7 +96,7 @@ Expected result: each listed endpoint should print a `200`, `201`, or other inte
 
 1. `GET /`
 2. `GET /health`
-3. `POST /api/auth/register` for admin
+3. `POST /api/auth/register` for admin.
 4. `POST /api/auth/login` for admin
 5. `POST /api/farms` with admin token
 6. `POST /api/auth/register` for farmer with `farm_id`
